@@ -1,0 +1,7 @@
+pandas==1.4.2
+scikit-image==0.19.2
+shapely==2.0.4
+geopy==2.4.1
+folium==0.16.0
+streamlit==1.33.0
+streamlit_folium==0.19.1
