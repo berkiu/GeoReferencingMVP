@@ -16,6 +16,7 @@ unzip ./test_images.zip -d ./GeoReferencingMVP/
 ```bash
 streamlit run mvp.py
 ```
+click on interactive map to choose your point
 
 ![example](https://github.com/berkiu/GeoReferencingMVP/assets/63101154/9f96ed1a-00d6-4e86-b81c-401769023890)
 
